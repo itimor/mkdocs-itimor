@@ -11,9 +11,9 @@ setup(
     description='sexy mkdocs theme',
     author='itimor',
     author_email='itimor@126.com',
-    packages=find_packages(),
-    include_package_data=True,
-    entry_points={
+    packages = find_packages(),
+    include_package_data = True,
+    entry_points = {
         'mkdocs.themes': [
             'itimor = itimor',
         ]
