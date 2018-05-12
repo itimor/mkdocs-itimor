@@ -1,0 +1,10 @@
+LICENSE.md
+MANIFEST.in
+README.md
+setup.py
+mkdocs_itimor.egg-info/PKG-INFO
+mkdocs_itimor.egg-info/SOURCES.txt
+mkdocs_itimor.egg-info/dependency_links.txt
+mkdocs_itimor.egg-info/entry_points.txt
+mkdocs_itimor.egg-info/not-zip-safe
+mkdocs_itimor.egg-info/top_level.txt
