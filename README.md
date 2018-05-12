@@ -6,7 +6,7 @@
 
 ## 安装
 
-···
+```
 git clone https://github.com/itimor/mkdocs-itimor.git
 cd mkdocs-itimor
 python setup.py install
