@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+.DS_Store
+.python-version
+dist/
+build/
+mkdocs_itimor.egg-info/
